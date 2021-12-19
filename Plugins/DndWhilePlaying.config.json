@@ -1,0 +1,10 @@
+{
+    "currentVersionInfo": {
+        "version": "0.0.2",
+        "hasShownChangelog": true
+    },
+    "status": {
+        "connectionStatus": "error",
+        "connectionStatusText": "Disconnected"
+    }
+}

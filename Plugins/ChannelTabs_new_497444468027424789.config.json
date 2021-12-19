@@ -1,0 +1,46 @@
+{
+    "settings": {
+        "tabs": [
+            {
+                "name": "Friends",
+                "url": "/channels/@me",
+                "selected": false,
+                "currentStatus": "none",
+                "iconUrl": "https://discordapp.com/assets/322c936a8c8be1b803cd94861bdfa868.png"
+            },
+            {
+                "name": "@GriCheba",
+                "url": "/channels/@me/760134432039895110",
+                "selected": true,
+                "currentStatus": "online",
+                "iconUrl": "https://cdn.discordapp.com/avatars/642698838745939998/bcca9042dfe8d5096209f1c44243b166.webp?size=128",
+                "channelId": "760134432039895110"
+            }
+        ],
+        "favs": [],
+        "favGroups": [],
+        "showTabBar": true,
+        "showFavBar": true,
+        "reopenLastChannel": false,
+        "showFavUnreadBadges": true,
+        "showFavMentionBadges": true,
+        "showFavTypingBadge": true,
+        "showEmptyFavBadges": true,
+        "showTabUnreadBadges": true,
+        "showTabMentionBadges": true,
+        "showTabTypingBadge": true,
+        "showEmptyTabBadges": false,
+        "showActiveTabUnreadBadges": false,
+        "showActiveTabMentionBadges": false,
+        "showActiveTabTypingBadge": false,
+        "showEmptyActiveTabBadges": false,
+        "compactStyle": true,
+        "privacyMode": false,
+        "showFavGroupUnreadBadges": true,
+        "showFavGroupMentionBadges": true,
+        "showFavGroupTypingBadge": true,
+        "showEmptyFavGroupBadges": true,
+        "showQuickSettings": true,
+        "alwaysFocusNewTabs": false
+    }
+}
